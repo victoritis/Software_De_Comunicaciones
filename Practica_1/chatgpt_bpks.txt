@@ -1,0 +1,7 @@
+Para analizar los resultados obtenidos en función de la fiabilidad de la transmisión, el consumo de energía necesario y la velocidad de transmisión que se puede alcanzar con esta modulación, puedes utilizar los valores calculados para la tasa de error de bits (BER) y Eb/N0.
+
+La tasa de error de bits (BER) es una medida de la fiabilidad de la transmisión. Cuanto menor sea el valor de BER, más fiable será la transmisión. Por lo tanto, puedes utilizar los valores calculados para BER para evaluar cómo varía la fiabilidad de la transmisión en función del valor de Eb/N0.
+
+El valor Eb/N0 también está relacionado con el consumo de energía necesario para transmitir información. Cuanto mayor sea el valor Eb/N0, mayor será el consumo energético necesario para transmitir información con una determinada fiabilidad. Por lo tanto, puedes utilizar los valores calculados para Eb/N0 y BER para evaluar cómo varía el consumo energético necesario en función del nivel deseado de fiabilidad.
+
+Finalmente, la velocidad máxima a la que se puede transmitir información depende del ancho de banda disponible y del esquema utilizado. En general, cuanto mayor sea el ancho de banda disponible y más avanzado sea el esquema utilizado (por ejemplo QAM en lugar BPSK), mayor será la velocidad máxima que se puede alcanzar. Sin embargo, también es importante tener en cuenta que aumentar el ancho banda o utilizar un esquema más avanzado también puede aumentar el consumo energético necesario y reducir la fiabilidad.

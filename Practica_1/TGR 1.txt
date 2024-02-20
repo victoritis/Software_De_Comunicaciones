@@ -1,0 +1,11 @@
+Gigabit Ethernet utiliza el estándar 1000BASE-T para transmitir a través de cables de cobre y utiliza una modulación 5-PAM para transmitir 2 bits por símbolo. Un cable para Gigabit Ethernet está formado por 4 pares trenzados de cobre, creando 4 canales en paralelo.
+
+Para calcular el ancho de banda mínimo que debe tener cada par trenzado para permitir la transmisión de 1 Gbit/s a través del cable, podemos utilizar la siguiente fórmula:
+
+Ancho de banda mínimo = (Velocidad de transmisión) / (Número de canales * Número de bits por símbolo)
+
+Reemplazando los valores que mencionaste en la fórmula, tenemos:
+
+Ancho de banda mínimo = (1 Gbit/s) / (4 canales * 2 bits/símbolo) = 125 Mbaudios
+
+Por lo tanto, cada par trenzado debe tener un ancho de banda mínimo de 125 MHz para permitir la transmisión de 1 Gbit/s a través del cable.

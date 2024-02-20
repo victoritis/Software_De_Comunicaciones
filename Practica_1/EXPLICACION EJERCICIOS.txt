@@ -1,0 +1,8 @@
+BPSK
+
+EJ 5
+La modulación BPSK es una técnica de modulación digital que se utiliza para transmitir datos binarios a través de un canal de comunicación. La fiabilidad de la transmisión depende de varios factores, como la relación señal-ruido (SNR) del canal y la tasa de error de bits (BER) resultante. En general, cuanto mayor sea la SNR y menor sea la BER, más confiable será la transmisión.
+
+En cuanto al consumo de energía necesario para transmitir datos utilizando BPSK, depende del nivel de potencia requerido para lograr una BER aceptable en el canal dado. En general, cuanto mayor sea la SNR del canal y menor sea el nivel de ruido presente en el canal, menos energía se necesitará para transmitir los datos.
+
+La velocidad de transmisión que se puede alcanzar con BPSK depende del ancho de banda disponible en el canal y del número de símbolos por segundo que se pueden transmitir. En general, cuanto mayor sea el ancho de banda disponible y más símbolos por segundo se puedan transmitir, mayor será la velocidad de transmisión.
